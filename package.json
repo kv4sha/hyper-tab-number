@@ -1,0 +1,27 @@
+{
+  "name": "hyper-tab-number",
+  "version": "0.0.7",
+  "description": "Plugin for hyper that shows tab number on the left of the tab",
+  "main": "index.js",
+  "keywords": [
+    "hyper-tab-number",
+    "hyper-tab",
+    "hyper-number",
+    "hyper",
+    "hyperterm",
+    "hyper tab number",
+    "hyper tab",
+    "hyper number"
+  ],
+  "author": "kv4sha",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kv4sha/hyper-tab-number.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+  }
+}
